@@ -1,4 +1,4 @@
-[назад](./index.md)
+[назад](../index.md)
 
 
 ![photo|200](./img/golosovsa.jpg)

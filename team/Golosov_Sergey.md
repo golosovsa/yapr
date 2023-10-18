@@ -1,4 +1,4 @@
-![photo|200](media/img/photo/golosovsa.jpg)
+![photo|200](./img/golosovsa.jpg)
 # Голосов Сергей
 Team leader команды разработчиков учебного проекта
 * email: [golosov_sa@mail.ru](mailto:golosov_sa@mail.ru)

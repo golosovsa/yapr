@@ -5,19 +5,19 @@
 ## Состав участников
 
 * [Голосов Сергей](./team/Golosov_Sergey.md) (team leader)
-* [Светлана Шестакова](Svetlana_Shestakova) (senior backend developer)
+* [Светлана Шестакова](Svetlana_Shestakova.md) (senior backend developer)
 
 
 ## Общие ресурсы
 
-* [Репозитории](repositories/index)
-* [Чаты](chats/index)
-* [Доски](boards/index)
+* [Репозитории](repositories/index.md)
+* [Чаты](chats/index.md)
+* [Доски](boards/index.md)
 
 
 ## Контракты
 
-* [Работа в команде](contracts/team/index)
+* [Работа в команде](contracts/team/index.md)
 * Оформление проектов
 
 
